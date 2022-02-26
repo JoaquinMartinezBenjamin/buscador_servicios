@@ -1,0 +1,42 @@
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Donde y como</title>
+<link rel="stylesheet" href="normalize.css"> 
+<link rel="stylesheet" href="vista.css">
+<script type="text/javascript" src="script.js"></script>
+</head>
+
+<body>
+
+<div id="cajaBusqueda">
+<h2>Donde y como buscador</h2>
+
+<input type="text" value="" name="nombre">
+<input type="button" value="Buscar" onclick="busqueda();">
+<input type="button" value="Ver todo" onclick="verTodo();">
+
+</div>
+<h3></h3>
+<div class="column width1">
+Tipo de Viaje 
+<select id="travelMode" class="routeOptions" >
+<option value="DRIVING" selected="selected">En Auto</option>
+<option value="WALKING">Caminando</option>
+</select>
+
+</div>
+<h3></h3>
+<div id="map"></div>
+<div> 
+
+</div>
+
+<div id="directions_panel" style="overflow: auto; "></div>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDUowJZuReMTYLOk9PsMuPTke9sSOTdF1U&callback=initMap">  
+</script>
+</body>
+
+</html>

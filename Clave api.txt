@@ -1,0 +1,16 @@
+Clave api
+
+
+AIzaSyDUowJZuReMTYLOk9PsMuPTke9sSOTdF1U
+
+
+'https://joaquinmartinezbenjamin.bitbucket.io/g373-n3yy.json'
+
+
+'https://www.datos.gov.co/resource/g373-n3yy.json'
+
+
+zeta-arena-193422
+
+
+https://console.developers.google.com/apis/credentials?project=zeta-arena-193422&hl=es

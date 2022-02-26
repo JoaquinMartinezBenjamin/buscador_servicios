@@ -1,0 +1,26 @@
+
+Your Account Details
+
+Your account is now active.
+Main Hosting Details
+Control panel username
+b22_21504405
+Control panel password	**********
+Control panel URL
+cpanel.byethost22.com
+MySQL username
+b22_21504405
+MySQL password
+**********
+MySQL hostname
+sql304.byethost22.com
+FTP username
+b22_21504405
+FTP password
+**********
+FTP host name	ftp.byethost22.com
+
+
+Your Website URL's
+Home page
+http://dondeycomo.byethost22.com
